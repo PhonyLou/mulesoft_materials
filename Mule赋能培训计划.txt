@@ -1,0 +1,58 @@
+(1)培训总体说明
+为使大家快速上手Mulesoft开发，并能独立学习、提高Mulesoft技能，所以准备了本次培训。希望能对准备使用Mulesoft的同事和项目中已经在使用Mulesoft的同事有所帮助。
+(2)培训大纲目录和培训重点（带*为重点）
+	培训说明和Mulesoft总体介绍(15-25分钟)
+	 -什么是Mule（What）
+	 -为什么要用Mule（现在开发都有什么问题）(Why)
+	 -Mule怎么解决哪些复杂的集成问题(How)
+	 -Mule开发基本软硬件要求
+	  Anypoint studio
+	  JDK1.8
+	  postman
+
+	API Led(*)(单纯介绍30分钟，带着练习1小时)
+	 -API Design(RAML)
+	 -API portal(Deploy)
+	 -Mock service(Test API without code)
+	 -Calling RESTful API
+	 -Calling WebService
+	Mule message（单纯介绍30分钟，带着练习1到1.5小时）
+	 -Introduce mule message(header payload flowVar sessionVar)
+	 -Accessing and Modifying 
+	 -Setting message data
+	 -Debug Mule Application
+	Mule Application(*)（30分钟）
+	 -Flows, subFlows
+	 -Encapsulating processors into separate flows.
+	 -Share resources
+	Consuming WEB services(*)（45分钟）
+	 -SOAP
+	 -RESTful 
+	 -passing arguments to SOAP/RESTful
+	Error Handling（30分钟）
+	Controlling flow（30分钟）
+	 -IF/When/Filtering/Validating
+	Dataweave transformations(*)（1到2小时）
+	 -File
+	 -inline/out file
+	 -Complex data structure
+	 -XML/JSON
+	Additional resources(单纯介绍30分钟，带着练习1小时）
+	 -connecting to files
+	 -Polling resources
+	 -Connecting to JMS queue.
+	 -DevKit
+(3)培训针对的受训人要求
+有基础的Java开发背景/有基础的运维背景，项目中使用过或即将使用Mulesoft
+(4)课时安排
+培训说明和Mulesoft总体介绍(15-25分钟)
+API Led(*)(单纯介绍30分钟，带着练习1小时)
+Mule message（单纯介绍30分钟，带着练习1到1.5小时）
+Mule Application(*)（30分钟）
+Consuming WEB services(*)（45分钟）
+Error Handling（30分钟）
+Controlling flow（30分钟）
+Dataweave transformations(*)（1到2小时）
+Additional resources(单纯介绍30分钟，带着练习1小时）
+(5)课件最晚提交日期
+2017.6.5
